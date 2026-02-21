@@ -1,6 +1,6 @@
 # 🧠 ChronosGuard  
 ## AI Foresight Engine for Responsible Innovation  
-
+<img width="1536" height="1024" alt="Designer (51)" src="https://github.com/user-attachments/assets/b0370fa0-0b07-4b20-9fd3-8f5a8f4613d5" />
 > Simulating the long-term economic, social, ethical, and geopolitical impact of emerging technologies before they scale.
 
 ---
