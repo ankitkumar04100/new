@@ -1,5 +1,7 @@
 # LuminaMind AI: Smart, Autonomous Intelligence for Your Life
 
+<img width="1536" height="1024" alt="Designer (60)" src="https://github.com/user-attachments/assets/6da51382-2146-47ff-875f-ece28515093c" />
+
 ---
 
 ## Table of Contents
@@ -17,6 +19,7 @@
 12. [Future Roadmap](#future-roadmap)
 13. [Built With](#built-with)
 14. [References / Resources](#references--resources)
+15. [Contact](#contact)
 
 ---
 
@@ -244,6 +247,17 @@ JavaScript, HTML, CSS, Node.js, REST APIs, JSON, workflow automation modules, cl
 - Node.js Official Documentation  
 - Chart.js Documentation  
 - AI reasoning engine & workflow automation references  
+
+---
+
+## Contact
+
+For any questions, collaboration, or inquiries about **LuminaMind AI**, you can reach out to the project leader:
+
+**Ankit Kumar**  
+Email: ankitkumarforall@gmail.com 
+
+I am happy to provide additional details, discuss AI implementations, or share insights about the development process of LuminaMind AI.
 
 ---
 
