@@ -13,44 +13,44 @@ Instead of simply offering advice, Aevora generates possible future scenarios th
 
 ---
 
-# Table of Contents
+## Table of Contents
 
-- Introduction
-- Problem Statement
-- Vision
-- Key Features
-- How Aevora Works
-- System Architecture
-- Technology Stack
-- Application Workflow
-- User Experience
-- Artificial Intelligence Design
-- Decision Simulation Engine
-- Future Timeline Generation
-- Scenario Modeling
-- Frontend Architecture
-- Backend Architecture
-- API Design
-- Database Structure
-- Security Considerations
-- Performance Optimization
-- Design Principles
-- UI and UX Strategy
-- Accessibility
-- Scalability
-- Real World Applications
-- Market Potential
-- Competitive Landscape
-- Challenges Faced
-- Lessons Learned
-- Future Improvements
-- Deployment Guide
-- Installation Guide
-- Development Setup
-- Contributing
-- License
-- Acknowledgements
-- Final Thoughts
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Vision](#vision)
+- [Key Features](#key-features)
+- [How Aevora Works](#how-aevora-works)
+- [System Architecture](#system-architecture)
+- [Technology Stack](#technology-stack)
+- [Application Workflow](#application-workflow)
+- [User Experience](#user-experience)
+- [Artificial Intelligence Design](#artificial-intelligence-design)
+- [Decision Simulation Engine](#decision-simulation-engine)
+- [Future Timeline Generation](#future-timeline-generation)
+- [Scenario Modeling](#scenario-modeling)
+- [Frontend Architecture](#frontend-architecture)
+- [Backend Architecture](#backend-architecture)
+- [API Design](#api-design)
+- [Database Structure](#database-structure)
+- [Security Considerations](#security-considerations)
+- [Performance Optimization](#performance-optimization)
+- [Design Principles](#design-principles)
+- [UI and UX Strategy](#ui-and-ux-strategy)
+- [Accessibility](#accessibility)
+- [Scalability](#scalability)
+- [Real World Applications](#real-world-applications)
+- [Market Potential](#market-potential)
+- [Competitive Landscape](#competitive-landscape)
+- [Challenges Faced](#challenges-faced)
+- [Lessons Learned](#lessons-learned)
+- [Future Improvements](#future-improvements)
+- [Deployment Guide](#deployment-guide)
+- [Installation Guide](#installation-guide)
+- [Development Setup](#development-setup)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Final Thoughts](#final-thoughts)
 
 ---
 
