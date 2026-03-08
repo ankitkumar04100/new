@@ -5,6 +5,9 @@
 ## AI Decision Intelligence Platform  
 ### Simulate Tomorrow. Decide Today.
 
+# Demo App
+[Aevora App](https://aevora.lovable.app)
+
 Aevora is an AI-powered decision simulation platform designed to help individuals explore the possible future outcomes of their choices. By combining artificial intelligence with structured scenario analysis, Aevora enables users to visualize multiple potential paths before making important decisions related to career, education, skills, or life planning.
 
 In a world where people constantly face uncertainty about the future, Aevora acts as a strategic companion that provides insights, simulated outcomes, and decision intelligence.
